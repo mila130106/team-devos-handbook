@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Environments & Cache
+__pycache__/
+*.pyc
+.env
+
+# Build outputs
+*.o
+*.out
